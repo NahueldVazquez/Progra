@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650578359 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\biblioteca\archivos\merge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

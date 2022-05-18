@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650540241 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\matrizsimetrica\matrizsimetrica.c
+	"matrizSimetrica.h"
+
+1650539657 c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\matrizsimetrica\matrizsimetrica.h
+	<stdio.h>
+	<stdlib.h>
+
+1650540235 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\matrizsimetrica\main.c
+	"matrizSimetrica.h"
+

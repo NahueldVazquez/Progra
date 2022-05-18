@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651174095 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\ejercicio13\main.c
+	"ejercicio13.h"
+	<stdio.h>
+	<stdlib.h>
+
+1651172954 c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\ejercicio13\ejercicio13.h
+	<stdio.h>
+	<stdlib.h>
+
+1651173509 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\ejercicio13\ejercicio13.c
+	"ejercicio13.h"
+

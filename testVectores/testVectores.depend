@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649339444 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\testvectores\main.c
+	"../Biblioteca/Vectores/Vectores.h"
+
+1650048594 c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\biblioteca\vectores\vectores.h
+	<stdio.h>
+	<stdlib.h>
+

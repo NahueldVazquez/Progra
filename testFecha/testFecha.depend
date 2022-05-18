@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648765421 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\testfecha\main.c
+	"../Biblioteca/Fecha/Fecha.h"
+	<ctype.h>
+
+1648729614 c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\fecha\fecha.h
+	<stdio.h>
+	<stdlib.h>
+
+1648765371 c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\biblioteca\fecha\fecha.h
+	<stdio.h>
+	<stdlib.h>
+

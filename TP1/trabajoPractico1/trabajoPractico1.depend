@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1648581160 source:c:\users\napo\onedrive\escritorio\1er cuatri 2022\programación\codeblocks 2022\tp1\trabajopractico1\matematica.c
+	"Matematica.h"
+
+1648580521 c:\users\napo\onedrive\escritorio\1er cuatri 2022\programación\codeblocks 2022\tp1\trabajopractico1\matematica.h
+	<stdio.h>
+	<stdlib.h>
+
+1648581136 source:c:\users\napo\onedrive\escritorio\1er cuatri 2022\programación\codeblocks 2022\tp1\trabajopractico1\main.c
+	"Matematica.h"
+
+1648581160 source:c:\users\napo\onedrive\escritorio\ing informatica\1er cuatri 2022\programación\codeblocks 2022\tp1\trabajopractico1\matematica.c
+	"Matematica.h"
+
+1648580521 c:\users\napo\onedrive\escritorio\ing informatica\1er cuatri 2022\programación\codeblocks 2022\tp1\trabajopractico1\matematica.h
+	<stdio.h>
+	<stdlib.h>
+

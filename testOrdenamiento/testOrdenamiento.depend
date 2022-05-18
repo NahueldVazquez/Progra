@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651154297 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\testordenamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Biblioteca/OrdenamientoGenerico/Ordenamiento.h"
+
+1651154103 c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\biblioteca\ordenamientogenerico\ordenamiento.h
+	<stddef.h>
+

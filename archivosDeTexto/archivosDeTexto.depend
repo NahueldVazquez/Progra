@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650898323 source:c:\users\nahue\desktop\ing informatica\1er cuatri 2022\programacion\codeblocks\archivosdetexto\archivosdetexto.c
+	"archivosDeTexto.h"
+
+1650898484 c:\users\nahue\desktop\ing informatica\1er cuatri 2022\programacion\codeblocks\archivosdetexto\archivosdetexto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1650898556 source:c:\users\nahue\desktop\ing informatica\1er cuatri 2022\programacion\codeblocks\archivosdetexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivosDeTexto.h"
+

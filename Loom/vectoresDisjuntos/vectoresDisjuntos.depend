@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650201032 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\vectoresdisjuntos\main.c
+	"vectoresDisjuntos.h"
+
+1650201020 c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\vectoresdisjuntos\vectoresdisjuntos.h
+	<stdio.h>
+	<stdlib.h>
+
+1650201175 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\vectoresdisjuntos\vectoresdisjuntos.c
+	"vectoresDisjuntos.h"
+

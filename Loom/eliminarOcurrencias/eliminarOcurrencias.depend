@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650386266 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\eliminarocurrencias\eliminarocurrencias.c
+	"eliminarOcurrencias.h"
+
+1650392699 c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\eliminarocurrencias\eliminarocurrencias.h
+	<stdio.h>
+	<stdlib.h>
+
+1650386275 source:c:\users\napo\onedrive\escritorio\ing_informatica\1er_cuatri_2022\programación\codeblocks_2022\loom\eliminarocurrencias\main.c
+	"eliminarOcurrencias.h"
+
